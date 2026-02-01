@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science student** at **Misr International University**, currently in my sophomore year. I'm deeply interested in **Artificial Intelligence, Machine Learning, and Software Engineering**. I love solving complex problems through code, building scalable applications, and exploring the intersection of data science and software development.
+I'm a passionate **Computer Science student** at **Misr International University**, currently in my sophomore year. I'm deeply interested in **Artificial Intelligence, Machine Learning, and Software Engineering**. I love solving complex problems through code, building scalable applications, and exploring the intersection of AI and software development.
 
 - 🎓 **Education:** B.Sc. Computer Science @ Misr International University (Sophomore)
 - 🌱 **Currently Learning:** Machine Learning, AI Algorithms, Software Engineering Practices
