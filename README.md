@@ -46,7 +46,7 @@ I'm a passionate **Computer Science student** at **Misr International University
 - 🖥️ **Object-Oriented Programming** (OOP Principles, SOLID)
 - 🎨 **GUI Development** (Qt, JavaFX)
 - 📊 **Database Management** (SQL, Data Modeling, File Systems)
-- 🌐 **Web Development** (HTML, CSS, JavaScript)
+- 🌐 **Web Development** (HTML, CSS, JavaScript)(currently learning)
 
 
 
