@@ -6,8 +6,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mahmoud7--dev.vercel.app-e06c75?style=for-the-badge&logo=vercel&logoColor=white)](https://mahmoud7-dev.vercel.app/)
-
 </div>
 
 ---
@@ -18,7 +16,6 @@
 const mahmoud = {
   education : "Junior @ Misr International University (MIU), studying AI on a Computer Science foundation",
   now       : ["Full Stack Web Developer Intern @ El Zatuna", "Data Science Trainee @ DEPI (IBM Data Scientist track)"],
-  community : "MSP Tech Club",
   focus     : ["Full-Stack Web Development", "AI / Data Science", "Software Engineering"],
   goal      : "Build intelligent systems that solve real-world problems",
   portfolio : "https://mahmoud7-dev.vercel.app/",
@@ -36,8 +33,8 @@ I'm a junior who builds things for real people with real problems. I started wit
 - **[MIU Guide](https://github.com/Mahmoud7111/MIU-Guide)** — A redesign of the MIU university web portal, built around a proper design-token system. *React, Vite, CSS Modules, Framer Motion, React Router*
 - **[Portfolio](https://mahmoud7-dev.vercel.app/)** — Terminal-style personal site with an AI chatbot behind a rate-limited serverless proxy. *React 18, Vite, SCSS, Framer Motion, Groq API, Vercel*
 - **[E-Commerce Management System](https://github.com/Mahmoud7111/E-Commerce-Application)** — Desktop app with separate admin, seller and customer roles. *Java, JavaFX, OOP*
-- **Adaptive Language Learning Platform** 🚧 *In progress* — Duolingo-style language learning app with levels, game-like lessons and LLM-powered features. University Software Engineering team project.
-- **Padel Court Booking & Reminder System** 🚧 *In progress* — Booking and reminder web app for a fictional padel club, built as a concept project to show what I can deliver to real clients. *TypeScript, Tailwind CSS, PostgreSQL*
+- **Adaptive Language Learning Platform** `🚧 *In progress*` —An Adaptive language learning app with levels, game-like lessons and AI-powered features. University Software Engineering team project.
+- **Padel Court Booking & Reminder System** `🚧 *In progress*` — Booking and reminder web app for a fictional padel club, built as a concept project to show what I can deliver to real clients.
 
 ---
 
@@ -53,7 +50,6 @@ I'm a junior who builds things for real people with real problems. I started wit
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
